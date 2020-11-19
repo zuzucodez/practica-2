@@ -1,0 +1,36 @@
+* {
+  margin: 0px;
+}
+
+.fondo {
+  background-color: rgb(34, 5, 68);
+  width: 220px;
+  height: 330px;
+  margin: auto;
+  margin-top: 40px;
+  box-shadow: 0px 0px 12px 2px cyan;
+  cursor: pointer;
+}
+
+.fondo:hover {
+  box-shadow: 0px 0px 12px 6px cyan;
+}
+
+img {
+  width: 70%;
+  margin: 25px 33px 20px 33px;
+  border-radius: 50%;
+}
+
+.title {
+  color: cyan;
+  text-align: center;
+  padding: 5px;
+}
+
+.parra {
+  color: cyan;
+  text-align: center;
+  padding: 5px;
+  font-size: 10px;
+}
